@@ -63,11 +63,11 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Tenh
 
 ### ⚙️ Projetos em Destaque
 
-**📦 [`python-scripts`](https://github.com/MatheusRenzo)**  
+**📦 [`python-scripts`](https://github.com/MatheusRenzo?tab=repositories)**  
 Scripts para automação de tarefas, scraping e bots.  
 `Python • Selenium • Pandas • REST API`
 
-**🛒 [`vtex-scripts`](https://github.com/MatheusRenzo)**  
+**🛒 [`vtex-scripts`](https://github.com/MatheusRenzo?tab=repositories)**  
 Automatizações VTEX: preços, estoque e dados via API.  
 `VTEX IO • GraphQL • VTEX API`
 

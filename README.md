@@ -39,8 +39,8 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Tenh
 </div>
 <div style="width: 100%;">
   <img 
-    src="https://github-readme-tech-stack.vercel.app/api/cards?title=Ferramentas&align=center&titleAlign=center&borderRadius=12&fontSize=14&lineCount=2&line1=vtex,vtex,ED125F;shopify,shopify,7AB55C;linx,linx,00AEEF;sintese,sintese,0070C0;&line2=postman,postman,FF6C37;mysql,mysql,4479A1;analytics,ga,E37400;&" 
-    alt="E-commerce stack" 
+    src="https://github-readme-tech-stack.vercel.app/api/cards?title=Ferramentas&align=center&titleAlign=center&borderRadius=12&fontSize=14&lineCount=5&line1=vtex,vtex,ED125F;shopify,shopify,7AB55C;woocommerce,woocommerce,96588A;magento,magento,EE672F;&line2=postman,postman,FF6C37;mysql,mysql,4479A1;mongodb,mongodb,47A248;postgresql,postgres,336791;&line3=git,git,F05032;docker,docker,2496ED;kubernetes,kubernetes,326CE5;amazonaws,aws,FF9900;&line4=node.js,node.js,339933;python,python,3776AB;java,java,007396;dotnet,.NET,512BD4;&line5=graphql,graphql,E10098;googleanalytics,ga4,E37400;google,gtm,34A853;restapi,api,6E6E6E;&" 
+    alt="Ferramentas" 
     style="width: 100%; height: auto; display: block; margin: 0 auto;"
   >
 </div>

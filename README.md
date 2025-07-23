@@ -1,8 +1,10 @@
-<h1 align="center">🚀 Matheus Renzo Gama</h1>
+ <h1 align="center">🚀 Matheus Renzo Gama</h1>
+ 
+ ![Coffee Consumption](https://img.shields.io/badge/☕_Cafés-999999/dia-6F4E37?style=flat-square&logo=coffeescript&logoColor=white)
 
 <p align="center">
   <strong>Desenvolvedor Backend | Especialista em E-commerce & Automação</strong><br/>
-  📍 São Paulo, SP • 📧 matheus.gama.renzo@gmail.com • 📱 (11) 91724-3080
+  📍 São Paulo, SP • 📧 matheus.gama.renzo@gmail.com • 📱 (11) 91724-3080 
 </p>
 
 <p align="center">
@@ -21,13 +23,6 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Tenh
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=🚀+Transformando+código+em+soluções+escaláveis;⚙️+Automatizando+processos+com+inteligência;🛒+Especialista+em+tecnologia+para+E-commerce" alt="Typing animation">
-</div>
-<div align="center"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend%20Alquimia&align=center&titleAlign=center&borderRadius=20&fontSize=1&lineCount=2&line1=python,python,3776AB;node.js,node,339933;graphql,graphql,E10098;express,express,000000;flask,flask,000000;&line2=selenium,selenium,43B02A;pandas,pandas,150458;rest,rest,8A4182;firebase,firebase,FFCA28;.net,.net,512BD4;&" alt="Backend stack"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=E-commerce%20Mastery&align=center&titleAlign=center&borderRadius=12&fontSize=14&lineCount=2&line1=vtex,vtex,ED125F;shopify,shopify,7AB55C;woocommerce,woocommerce,96588A;linx,linx,00AEEF;sintese,sintese,0070C0;&line2=postman,postman,FF6C37;mysql,mysql,4479A1;wordpress,wordpress,21759B;elementor,elementor,92003B;analytics,ga,E37400;&" alt="E-commerce stack"> </div>
-
----
-
 ### 🛠️ Tech Stack & Ferramentas
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -43,16 +38,23 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Tenh
 
 ---
 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=🚀+Transformando+código+em+soluções+escaláveis;⚙️+Automatizando+processos+com+inteligência;🛒+Especialista+em+tecnologia+para+E-commerce" alt="Typing animation">
+</div>
+<div align="center"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=E-commerce%20Mastery&align=center&titleAlign=center&borderRadius=12&fontSize=14&lineCount=2&line1=vtex,vtex,ED125F;shopify,shopify,7AB55C;woocommerce,woocommerce,96588A;linx,linx,00AEEF;sintese,sintese,0070C0;&line2=postman,postman,FF6C37;mysql,mysql,4479A1;wordpress,wordpress,21759B;elementor,elementor,92003B;analytics,ga,E37400;&" alt="E-commerce stack"> </div>
+
 ### 📈 GitHub Analytics
+
+---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusRenzo&bg_color=1a1a1a&color=aa00ff&line=00ffcc&point=ffffff&area=true&hide_border=true)
+---
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MatheusRenzo&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRenzo&layout=compact&theme=radical)](https://github.com/MatheusRenzo)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheusRenzo&show_icons=true&theme=radical&count_private=true&hide=prs)](https://github.com/MatheusRenzo)
-
 </div>
 
 

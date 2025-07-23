@@ -53,8 +53,6 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Tenh
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MatheusRenzo&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRenzo&layout=compact&theme=radical)](https://github.com/MatheusRenzo)
 </div>
 

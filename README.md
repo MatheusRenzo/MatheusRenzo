@@ -23,18 +23,13 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Tenh
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![VTEX IO](https://img.shields.io/badge/-VTEX-FF0040?style=flat&logo=data:image/svg+xml;base64,...&logoColor=white)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -42,7 +37,13 @@ Sou um desenvolvedor backend apaixonado por resolver problemas com código. Tenh
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=🚀+Transformando+código+em+soluções+escaláveis;⚙️+Automatizando+processos+com+inteligência;🛒+Especialista+em+tecnologia+para+E-commerce" alt="Typing animation">
 </div>
-<div align="center"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=E-commerce%20Mastery&align=center&titleAlign=center&borderRadius=12&fontSize=14&lineCount=2&line1=vtex,vtex,ED125F;shopify,shopify,7AB55C;woocommerce,woocommerce,96588A;linx,linx,00AEEF;sintese,sintese,0070C0;&line2=postman,postman,FF6C37;mysql,mysql,4479A1;wordpress,wordpress,21759B;elementor,elementor,92003B;analytics,ga,E37400;&" alt="E-commerce stack"> </div>
+<div style="width: 100%;">
+  <img 
+    src="https://github-readme-tech-stack.vercel.app/api/cards?title=Ferramentas&align=center&titleAlign=center&borderRadius=12&fontSize=14&lineCount=2&line1=vtex,vtex,ED125F;shopify,shopify,7AB55C;linx,linx,00AEEF;sintese,sintese,0070C0;&line2=postman,postman,FF6C37;mysql,mysql,4479A1;analytics,ga,E37400;&" 
+    alt="E-commerce stack" 
+    style="width: 100%; height: auto; display: block; margin: 0 auto;"
+  >
+</div>
 
 ### 📈 GitHub Analytics
 

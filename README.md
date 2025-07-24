@@ -1,17 +1,16 @@
  <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusRenzo/MatheusRenzo/main/neon-border.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/MatheusRenzo/MatheusRenzo/main/testonome.svg" width="100%" />
 </p>
 
- 
- ![Coffee Consumption](https://img.shields.io/badge/☕_Cafés-999999/dia-6F4E37?style=flat-square&logo=coffeescript&logoColor=white)
-
-  📍 São Paulo, SP • 📧 matheus.gama.renzo@gmail.com • 📱 (11) 91724-3080 
+ ![Coffee Consumption](https://img.shields.io/badge/☕_Cafés-999999/dia-6F4E37?style=flat-square&logo=coffeescript&logoColor=white) 
 </p>
+
 
 <p align="center">
   <a href="https://github.com/MatheusRenzo"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/matheus-renzo-gama-a396b5367"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:matheus.gama.renzo@gmail.com"><img src="https://img.shields.io/badge/E--mail-Red?style=flat&logo=gmail&logoColor=white"/></a>
+  <a ![Coffee Consumption](https://img.shields.io/badge/☕_Cafés-999999/dia-6F4E37?style=flat-square&logo=coffeescript&logoColor=white)></a>
 </p>
 
 ---

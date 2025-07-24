@@ -1,0 +1,10 @@
+<svg width="1000" height="1400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00ffff"/>
+    </filter>
+  </defs>
+  <rect x="10" y="10" width="980" height="1380" rx="30" ry="30"
+        stroke="#00ffff" stroke-width="4" fill="none"
+        filter="url(#glow)" />
+</svg>

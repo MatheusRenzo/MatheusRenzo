@@ -1,10 +1,22 @@
-<svg width="1000" height="1400" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="glow">
-      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00ffff"/>
+    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#00fff7" flood-opacity="0.8"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00fff7" flood-opacity="0.6"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#00fff7" flood-opacity="0.4"/>
     </filter>
+    <linearGradient id="gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00fff7"/>
+      <stop offset="100%" stop-color="#6a00ff"/>
+    </linearGradient>
   </defs>
-  <rect x="10" y="10" width="980" height="1380" rx="30" ry="30"
-        stroke="#00ffff" stroke-width="4" fill="none"
-        filter="url(#glow)" />
+  <rect width="800" height="200" fill="#111" rx="20" ry="20"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Fira Code, monospace" font-size="48" fill="url(#gradient)" filter="url(#neon-glow)" >
+   🚀 Matheus Renzo Gama
+  </text>
+  <text x="50%" y="75%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Fira Code, monospace" font-size="18" fill="#00fff7" opacity="0.7" >
+    Dsenvolvedor Backend | Especialista em E-commerce
+  </text>
 </svg>

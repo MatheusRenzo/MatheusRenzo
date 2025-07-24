@@ -1,3 +1,7 @@
+
+ <div align="center" style="padding: 40px; background-image: url('https://link-da-sua-imagem.svg'); background-size: cover; background-repeat: no-repeat; border-radius: 20px;">
+  <!-- Conteúdo do seu README -->
+
  <h1 align="center">🚀 Matheus Renzo Gama</h1>
  
  ![Coffee Consumption](https://img.shields.io/badge/☕_Cafés-999999/dia-6F4E37?style=flat-square&logo=coffeescript&logoColor=white)
@@ -93,3 +97,4 @@ Automatizações VTEX: preços, estoque e dados via API.
 <p align="center">
   <i>“Transformando processos em soluções escaláveis com código.”</i>
 </p>
+</div>

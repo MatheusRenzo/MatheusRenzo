@@ -1,8 +1,4 @@
- <p align="center">
-  <img src="https://raw.githubusercontent.com/MatheusRenzo/MatheusRenzo/main/testonome.svg" width="100%" />
-</p>
 
- ![Coffee Consumption](https://img.shields.io/badge/☕_Cafés-999999/dia-6F4E37?style=flat-square&logo=coffeescript&logoColor=white) 
 </p> <p align="center">
   <img src="https://raw.githubusercontent.com/MatheusRenzo/MatheusRenzo/main/testonome.svg" width="100%" />
 </p>

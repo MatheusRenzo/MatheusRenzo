@@ -1,5 +1,7 @@
-![GitHub Repositories](https://github-stats-rust-ten.vercel.app/api/stats?username=MatheusRenzo&theme=tanjiro&showBorder=true&language=pt&borderType=fire)
+![GitHub Stats](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=tanjiro&showBorder=true&language=pt&type=stats&borderType=fire)
 
-![GitHub Repositories](https://github-stats-rust-ten.vercel.app/api/stats?username=MatheusRenzo&theme=tanjiro&language=pt&showBorder=true&type=repos-list&maxRepos=10&borderType=water)
+![GitHub Repositories](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=zenitsu&showBorder=true&language=pt&type=repos-list&borderType=water&maxRepos=5)
 
-![GitHub Repositories](https://github-stats-rust-ten.vercel.app/api/stats?username=MatheusRenzo&theme=tanjiro&language=pt&showBorder=true&type=top-repos&maxRepos=10&borderType=fire)
+![GitHub Top Repos](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=tanjiro&showBorder=true&language=pt&type=top-repos&borderType=water&maxRepos=3)
+
+![GitHub Languages](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=zenitsu&showBorder=true&language=pt&type=languages&borderType=water)

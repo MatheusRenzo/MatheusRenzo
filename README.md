@@ -2,6 +2,9 @@
 ![GitHub Repositories](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=tanjiro&showBorder=true&language=pt&type=repos-list&borderType=fire&maxRepos=5)
 
 
+![GitHub Repository](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=zenitsu&showBorder=true&language=pt&type=repo&borderType=water&repo=MatheusRenzoGama.dev.portifolio)
+
+
 
 
 ![GitHub Top Repos](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=nezuko&showBorder=true&language=pt&type=top-repos&maxRepos=3)
@@ -10,9 +13,6 @@
 
 
 
-
-
-![GitHub Repository](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=zenitsu&showBorder=true&language=pt&type=repo&borderType=water&repo=MatheusRenzoGama.dev.portifolio)
 
 
 

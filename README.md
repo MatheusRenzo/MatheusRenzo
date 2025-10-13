@@ -4,7 +4,7 @@
 
 
 
-![GitHub Top Repos](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=tanjiro&showBorder=true&language=pt&type=top-repos&borderType=water&maxRepos=3)
+![GitHub Top Repos](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=nezuko&showBorder=true&language=pt&type=top-repos&maxRepos=3)
 
 ![GitHub Languages](https://github-stats-dusky-seven.vercel.app/api/stats?username=MatheusRenzo&theme=tanjiro&showBorder=true&language=pt&type=languages&borderType=water)
 

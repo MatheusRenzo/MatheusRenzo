@@ -1,6 +1,6 @@
 <!---- Banner principal ---->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusRenzo/MatheusRenzo/main/Especialista E-commerce (2).png" alt="Banner Matheus Renzo" width="100%" />
+  <img src="https://raw.githubusercontent.com/MatheusRenzo/MatheusRenzo/main/Especialista E-commerce.gif" alt="Banner Matheus Renzo" width="100%" />
 </div>
 
 <h1 align="center">Olá, eu sou Matheus Renzo Gama 👋</h1>

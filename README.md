@@ -3,12 +3,11 @@
   <img src="https://raw.githubusercontent.com/MatheusRenzo/MatheusRenzo/main/Especialista E-commerce.gif" alt="Banner Matheus Renzo" width="100%" />
 </div>
 
-<h1 align="center">Olá, eu sou Matheus Renzo Gama 👋</h1>
+<h1 align="center">Olá, eu sou Matheus Renzo Gama </h1>
 <h3 align="center">Full Stack Developer • Especializado em React & Next.js • Backend com Python & Node.js</h3>
 
 <div align="center">
-  <img src="https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=light&showBorder=true&language=pt&type=repo&repo=MatheusRenzo" alt="GitHub Repository"/>
-
+  
 ## 🛡️ Ranking Github Stats
 ![GitHub Stats](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=tanjiro&showBorder=true&language=pt&type=stats&borderType=water)
 
@@ -49,20 +48,12 @@ Portfólio: [matheus-renzo-gama-dev-portifolio.vercel.app](https://matheus-renzo
 **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
 Universidade São Judas Tadeu — 2024-2026 (em andamento)  
 <br>**Técnico em Eletrônica**  
-ETEC Prof. Aprígio Gonzaga — 2017-2020 (concluído)
+ETEC Prof. Aprígio Gonzaga — 2017-2020 (concluído) 
 
-**Certificações / Cursos**  
-  React Fundamentals – Udemy (2022)  
-  Node.js Basics – Udemy (2022)  
-  JavaScript ES6+ – Udemy (2022)  
-  Python for Automation – Coursera (2021)  
-  Git & GitHub – Coursera (2021)  
-  Curso Intermediário de IA – Instituto FIT (2022)  
-  Redes de comunicação IoT, Programação Software Embarcado & Cloud Computing para IoT (2022)  
+## 🧩 Top Repositorios Relevantes
+ ![GitHub Top Repos](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=nezuko&showBorder=true&language=pt&type=top-repos&maxRepos=3)
 
-
-
-## 💼 Experiência Profissional   
+## 💼 Ultima Experiência Profissional   
 ## 1. Analista de E-commerce — TRACK&FIELD 
 
 *Nov 2023 ≈ Out (13 meses) – São Paulo, SP*  
@@ -76,24 +67,12 @@ Principais conquistas:
   Implementou monitoramento que reduziu incidentes em **30%**.  
   Desenvolveu módulo completo de logística para VTEX.
 
-
-## 2. Técnico de Suporte — APS Tecnologia / CloudIce (Freelance)  
-*Jan 2021 –  
-Manutenção de VPS, servidores Linux/Windows, monitoramento preventivo.  
-Tecnologias: Linux, Windows Server, VPS, monitoramento, troubleshooting.  
-Conquistas: 99% de uptime mantido; tempo médio de solução de **15 minutos**; reduziu incidentes em **40%**; documentou processos que agilizaram resoluções.
-##
-
-## 🧩 Top Repositorios Relevantes
- ![GitHub Top Repos](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=nezuko&showBorder=true&language=pt&type=top-repos&maxRepos=3)
-
-
 ## 🧩 Projetos Relevantes  
 ![GitHub Repositories](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=tanjiro&showBorder=true&language=pt&type=repos-list&borderType=fire&maxRepos=5)
 
 > Para ver todos os projetos e demos, visite meu portfólio no link abaixo.
 
->  [- Portfólio](https://matheus-renzo-gama-dev-portifolio.vercel.app)
+> [Portfólio aqui!](https://matheus-renzo-gama-dev-portifolio.vercel.app)
 
 
 ## 📫 Contato  
@@ -116,5 +95,8 @@ Implementar práticas DevOps e automação de ponta a ponta
 
 
  Muito obrigado por visitar meu perfil! Vamos transformar ideias em código e criar soluções incríveis juntos. 🚀  
+
+ ![GitHub Repository](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=nezuko&showBorder=true&language=pt&type=repo&repo=MatheusRenzo)
+
 
  </div>

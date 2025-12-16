@@ -9,7 +9,7 @@
 <div align="center">
   
 ## 🛡️ Ranking Github Stats
-![GitHub Stats](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=transparent&showBorder=true&language=pt&type=stats&borderType=water)
+![GitHub Stats](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=neon_blue&showBorder=true&language=pt&type=stats&borderType=water)
 
 
 ## 🎯 Sobre mim  
@@ -39,7 +39,7 @@ Portfólio: [https://www.Portfólio.com](https://www.Portfólio.com)
 
 
 ## 📊 Principais Linguagens  
-![GitHub Languages](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=transparent&showBorder=true&language=pt&type=languages&borderType=water)
+![GitHub Languages](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=neon_blue&showBorder=true&language=pt&type=languages&borderType=water)
 
 
 ## 🎓 Formação Acadêmica & Certificações  
@@ -54,7 +54,7 @@ Instituto de Tecnologia FIT — 2022
 
 
 ## 🧩 Top Repositorios Relevantes
- ![GitHub Top Repos](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=transparent&showBorder=true&language=pt&type=top-repos&maxRepos=3)
+ ![GitHub Top Repos](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=neon_blue&showBorder=true&language=pt&type=top-repos&maxRepos=3)
 
 
 ## 💼 Última Experiência Profissional   
@@ -81,7 +81,7 @@ Principais conquistas:
 
 
 ## 🧩 Projetos Relevantes  
-![GitHub Repositories](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=transparent&showBorder=true&language=pt&type=repos-list&borderType=fire&maxRepos=5)
+![GitHub Repositories](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=neon_blue&showBorder=true&language=pt&type=repos-list&borderType=fire&maxRepos=5)
 
 
 > Para ver todos os projetos e demos, visite meu portfólio no link abaixo.
@@ -95,7 +95,7 @@ GitHub: [MatheusRenzo](https://github.com/MatheusRenzo)
 
 
 ## ⚙️ Ultimos commits (30 dias)  
-![GitHub Commits](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=transparent&showBorder=true&language=pt&type=commits&days=30)
+![GitHub Commits](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=neon_blue&showBorder=true&language=pt&type=commits&days=30)
 
 
 ### Objetivos Profissionais  
@@ -104,6 +104,6 @@ Meu objetivo é desenvolver soluções tecnológicas que promovam resultados, au
 
  Muito obrigado por visitar meu perfil! Vamos transformar ideias em código e criar soluções incríveis juntos. 🚀  
  
- ![GitHub Repository](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=transparent&showBorder=true&language=pt&type=repo&repo=MatheusRenzo)
+ ![GitHub Repository](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=neon_blue&showBorder=true&language=pt&type=repo&repo=MatheusRenzo)
  
  </div>

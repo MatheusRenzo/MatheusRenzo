@@ -1,6 +1,6 @@
 <!---- Banner Header ---->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MatheusRenzo/MatheusRenzo/main/Especialista%20E-commerce.gif" alt="Banner MatheusRenzo" width="100%" alt="Banner MatheusRenzo" width="100%" />
+  <img src="https://raw.githubusercontent.com/MatheusRenzo/MatheusRenzo/main/Especialista%20E-commerce.gif" alt="Banner MatheusRenzo" width="100%" alt="Banner MatheusRenzo" width="100%" alt="Banner MatheusRenzo" width="100%" />
 </div>
 
 <h1 align="center">Olá, eu sou MatheusRenzo 👋</h1>
@@ -9,15 +9,15 @@
 <div align="center">
   
 ## 🛡️ Ranking Github Stats
-![GitHub Stats](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=prussian&showBorder=true&language=pt&type=stats&borderType=water)
+![GitHub Stats](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=holi&showBorder=true&language=pt&type=stats&borderType=water)
 
 
 ## 🎯 Sobre mim  
 Sou um Desenvolvedor Full Stack com um perfil mão na massa, focado em transformar desafios complexos em soluções digitais de alto impacto. Minha expertise não se limita ao código: atuo com uma visão 360º de produto, negócio e escalabilidade, garantindo que cada linha de código entregue valor real. Sou o fundador e desenvolvedor do GitHubStats.com.br, um SaaS lançado e em produção que prova minha capacidade de construir, lançar e manter um produto completo, desde a concepção até a monetização. Essa experiência me deu um domínio prático em: Backend Robusto: Python, Node.js (Nest.js), APIs REST/GraphQL, PostgreSQL e arquiteturas de alta performance. Frontend Moderno: React.js, Next.js e TypeScript, focado em UX/UI e otimização de performance. E-commerce & Automação: Sólida experiência em VTEX e Shopify, criando integrações e automações Python que geraram ganhos de eficiência de até 70% em operações críticas. Inovação: Aplicação prática de Inteligência Artificial e Machine Learning para soluções estratégicas.
 
-Localização: São Paulo, São Paulo, Brasil  
+Localização: São Paulo, Brasil  
 Idiomas: Português: Nativo  
-Portfólio: [matheus-renzo-gama-dev-portifolio.vercel.app/](matheus-renzo-gama-dev-portifolio.vercel.app/)  
+Portfólio: [https://matheus-renzo-gama-dev-portifolio.vercel.app/](https://matheus-renzo-gama-dev-portifolio.vercel.app/)  
 
 
 ## 🛠️ Stack & Tecnologias  
@@ -31,16 +31,16 @@ Portfólio: [matheus-renzo-gama-dev-portifolio.vercel.app/](matheus-renzo-gama-d
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-0F0F11?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="VTEX" src="https://img.shields.io/badge/VTEX-F71963?style=flat-square&logo=vtex&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
 </p>
 
 
 ## 📊 Principais Linguagens  
-![GitHub Languages](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=prussian&showBorder=true&language=pt&type=languages&borderType=water)
+![GitHub Languages](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=holi&showBorder=true&language=pt&type=languages&borderType=water)
 
 
 ## 🎓 Formação Acadêmica & Certificações  
@@ -52,7 +52,7 @@ ETEC Prof. Aprígio Gonzaga — janeiro de 2017 - dezembro de 2020
 
 
 ## 🧩 Top Repositorios Relevantes
- ![GitHub Top Repos](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=prussian&showBorder=true&language=pt&type=top-repos&maxRepos=3)
+ ![GitHub Top Repos](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=holi&showBorder=true&language=pt&type=top-repos&maxRepos=3)
 
 
 ## 💼 Última Experiência Profissional   
@@ -60,7 +60,7 @@ ETEC Prof. Aprígio Gonzaga — janeiro de 2017 - dezembro de 2020
 ## 1. Desenvolvedor de software — Conversys IT Solutions 
 
 *janeiro de 2026 - Present (2 meses)*  
-É com muita alegria que compartilho que estou iniciando um novo capítulo na minha trajetória profissional: agora faço parte do time da Conversys IT Solutions! Chego motivado para atuar como Desenvolvedor, aplicando minha experiência e minha paixão por transformar desafios complexos em soluções digitais eficientes. Quem me conhece sabe que tenho um perfil "mão na massa" e estou ansioso para colaborar com a equipe, gerando inovação e resultados reais para a empresa.  
+Novo desafio desbloqueado! É com muita alegria que compartilho que estou iniciando um novo capítulo na minha trajetória profissional: agora faço parte do time da Conversys IT Solutions! Chego motivado para atuar como Desenvolvedor, aplicando minha experiência e minha paixão por transformar desafios complexos em soluções digitais eficientes. Quem me conhece sabe que tenho um perfil "mão na massa" e estou ansioso para colaborar com a equipe, gerando inovação e resultados reais para a empresa.  
 
 
 ## 2. Desenvolvedor de e-commerce — TRACK&FIELD 
@@ -70,16 +70,16 @@ Ingressei no time de tecnologia da Track&Field como estagiário, onde minha expe
 Tecnologias: Python, Node.js, TypeScript, React, PostgreSQL, MySQL, GraphQL, Prisma, VTEX  
 Principais conquistas:
 
-  Criei sistemas completos usando Node.js, TypeScript e React no front-end, com Python em automações robustas. Desenvolvi um sistema de gestão de produtos que automatizou o cadastro, descadastro e atualização em massa de SKUs, reduzindo tempo operacional e erros manuais.  
-  Implementei scripts de monitoramento em tempo real para o catálogo, detectando quedas de estoque e gerando relatórios automáticos de performance. Domino integrações com APIs REST e GraphQL (incluindo o Master Data da VTEX) para consolidar dados e alimentar dashboards de BI.  
-  Arquitei um Simulador de Frete interno que cruza dados de estoque de mais de 500 lojas virtuais com as APIs da VTEX, ranqueando e calculando a entrega mais rápida e econômica, otimizando custos e experiência do cliente.  
-  Possuo domínio avançado do ecossistema VTEX (Admin, CMS, IO) e conduzi integrações com parceiros como Insider e Monks. Também explorei IA e Machine Learning em automações e análises preditivas de vendas e comportamento do cliente.  
+  Desenvolvimento Full Stack & Automação: Criei sistemas completos usando Node.js, TypeScript e React no front-end, com Python em automações robustas. Desenvolvi um sistema de gestão de produtos que automatizou o cadastro, descadastro e atualização em massa de SKUs, reduzindo tempo operacional e erros manuais.  
+  Engenharia de Dados & APIs: Implementei scripts de monitoramento em tempo real para o catálogo, detectando quedas de estoque e gerando relatórios automáticos de performance. Domino integrações com APIs REST e GraphQL (incluindo o Master Data da VTEX) para consolidar dados e alimentar dashboards de BI.  
+  Solução de Logística Inteligente: Arquitetei um Simulador de Frete interno que cruza dados de estoque de mais de 500 lojas virtuais com as APIs da VTEX, ranqueando e calculando a entrega mais rápida e econômica, otimizando custos e experiência do cliente.  
+  Especialista VTEX & Inovação com IA: Possuo domínio avançado do ecossistema VTEX (Admin, CMS, IO) e conduzi integrações com parceiros como Insider e Monks. Também explorei IA e Machine Learning em automações e análises preditivas de vendas e comportamento do cliente.  
 
 
 ## 3. Estoquista extra — Osklen 
 
 *novembro de 2023 - janeiro de 2024 (3 meses)*  
-Atuei como Estoquista Extra na Terras de Aventura Indústria de Artigos Esportivos, desempenhando atividades essenciais para o controle e organização do estoque. Fui responsável pelo recebimento, conferência e armazenamento adequado das mercadorias, garantindo a integridade dos produtos. Realizei o controle rigoroso do inventário, atualizando registros para assegurar a precisão dos dados. Auxiliei na preparação de pedidos para expedição, colaborando com a equipe logística para otimizar os processos internos. Mantive o ambiente de trabalho organizado, seguindo normas de segurança e procedimentos operacionais para evitar perdas e garantir eficiência nas operações.  
+Atuei como Estoquista Extra na Terras de Aventura Indústria de Artigos Esportivos, desempenhando atividades essenciais para o controle e organização do estoque. Fui responsável pelo recebimento, conferência e armazenamento adequado das mercadorias, garantindo a integridade dos produtos. Realizei o controle rigoroso do inventário, atualizando registros para assegurar a precisão dos dados. Auxiliei na preparação de pedidos para expedição, colaborando com a equipe logística para otimizar os processos internos. Mantive o ambiente de trabalho organizado, seguindo normas de segurança e procedimentos operacionais para evitar perdas e garantir eficiência nas operações  
 
 
 ## 4. Técnico de Suporte e Desenvolvimento de Servidores — APS Tecnologia / CloudIce 
@@ -89,22 +89,22 @@ Atuei na manutenção e suporte de VPS (Servidores Privados Virtuais) da APS Tec
 
 
 ## 🧩 Projetos Relevantes  
-![GitHub Repositories](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=prussian&showBorder=true&language=pt&type=repos-list&borderType=fire&maxRepos=5)
+![GitHub Repositories](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=holi&showBorder=true&language=pt&type=repos-list&borderType=fire&maxRepos=5)
 
 
 > Para ver todos os projetos e demos, visite meu portfólio no link abaixo.
 
-> [Portfólio aqui!](matheus-renzo-gama-dev-portifolio.vercel.app/)
+> [Portfólio aqui!](https://matheus-renzo-gama-dev-portifolio.vercel.app/)
 
 
 ## 📫 Contato  
 Email: **matheus.gama.renzo@gmail.com**  
-LinkedIn: [www.linkedin.com/in/matheus-renzo-exe](www.linkedin.com/in/matheus-renzo-exe)  
-GitHub: [github.com/MatheusRenzo](github.com/MatheusRenzo)  
+LinkedIn: [matheus-renzo-exe](https://www.linkedin.com/in/matheus-renzo-exe)  
+GitHub: [MatheusRenzo](https://github.com/MatheusRenzo)  
 
 
 ## ⚙️ Ultimos commits (30 dias)  
-![GitHub Commits](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=prussian&showBorder=true&language=pt&type=commits&days=365)
+![GitHub Commits](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=holi&showBorder=true&language=pt&type=commits&days=365)
 
 
 ### Objetivos Profissionais  
@@ -113,6 +113,6 @@ Busco oportunidades onde eu possa aplicar minha experiência em colocar sistemas
 
  Muito obrigado por visitar meu perfil! Vamos transformar ideias em código e criar soluções incríveis juntos. 🚀  
  
- ![GitHub Repository](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=prussian&showBorder=true&language=pt&type=repo&repo=MatheusRenzo)
+ ![GitHub Repository](https://githubstats.com.br/api/stats?username=MatheusRenzo&theme=holi&showBorder=true&language=pt&type=repo&repo=MatheusRenzo)
  
  </div>

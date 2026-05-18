@@ -1,6 +1,6 @@
 <!---- Banner Header ---->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A00f53d%2C100%3A002aff&height=250&section=header&text=MatheusRenzo&fontSize=90" alt="Banner MatheusRenzo" width="100%" />
+  <img src="https://raw.githubusercontent.com/MatheusRenzo/MatheusRenzo/refs/heads/main/Especialista%20E-commerce.gif" alt="Banner MatheusRenzo" width="100%" />
 </div>
 
 <h1 align="center">Olá, eu sou MatheusRenzo 👋</h1>
